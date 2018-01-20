@@ -16,5 +16,7 @@ public class SillyQuiz {
         } else {
             System.out.println("'" + response + "'? Really? I mean, really?");
         }
+        System.out.println("That's all folks.");
+        System.out.println("So piss off.");
     }
 }
