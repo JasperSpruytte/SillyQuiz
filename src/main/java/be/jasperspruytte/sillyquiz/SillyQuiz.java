@@ -17,6 +17,6 @@ public class SillyQuiz {
             System.out.println("'" + response + "'? Really? I mean, really?");
         }
         System.out.println("That's all folks.");
-        System.out.println("So pisss off.");
+        System.out.println("So pissss off.");
     }
 }
